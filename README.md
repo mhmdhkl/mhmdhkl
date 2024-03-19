@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/heikalhikmah" target="blank"><img src="https://img.shields.io/twitter/follow/heikalhikmah?logo=twitter&style=for-the-badge" alt="heikalhikmah" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C++, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
